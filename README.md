@@ -11,6 +11,8 @@ Funhaus is a youtube channel run by:
 
 Link to the channel: https://www.youtube.com/channel/UCboMX_UNgaPBsUOIgasn3-Q/about
 
+Link to where I got the data from: http://vidstatsx.com/boMX_UNgaPBsUOIgasn3-Q/youtube-channel
+
 The reason why I chose to use their subscriber increase for my dataset is because they are one of my favourite Youtube channels. 
 
 The project as it stands includes a dataset of the subscriber increase between the 31-07-15 to the 28/10/15, a period of 90 days.  
