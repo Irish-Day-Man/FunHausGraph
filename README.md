@@ -1,5 +1,6 @@
-# C14449708 Processing Assignment
-## Funhaus Graph
+# FunHausGraph
+##C14449708 Processing Assignment
+
 This is a graph designed to show the increase in subscribers for the youtube channel [Funhaus](https://www.youtube.com/channel/UCboMX_UNgaPBsUOIgasn3-Q).
 The graph spans subscriber gain over 90 days. 
 
