@@ -23,6 +23,9 @@ The dataset can be shown using a linegraph, a 3D bar chart and in a text form. T
 ###3D Bar Chart of Project###
 ![alt tag](https://raw.githubusercontent.com/Irish-Day-Man/FunHausGraph/master/processingScreenshots/3dBarChart.jpg)
 
+###Data Statistics Page###
+![alt tag](https://raw.githubusercontent.com/Irish-Day-Man/FunHausGraph/master/processingScreenshots/stats.jpg)
+
 ###Controls Page###
 ![alt tag](https://raw.githubusercontent.com/Irish-Day-Man/FunHausGraph/master/processingScreenshots/controls.jpg)
 
