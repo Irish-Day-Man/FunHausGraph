@@ -2,7 +2,8 @@
 ##C14449708 Processing Assignment
 
 This is a graph designed to show the increase in subscribers for the youtube channel [Funhaus](https://www.youtube.com/channel/UCboMX_UNgaPBsUOIgasn3-Q).
-The graph spans subscriber gain over 90 days. 
+
+The graph spans subscriber gain over 90 days. The data for this graph was obtained [here](http://vidstatsx.com/boMX_UNgaPBsUOIgasn3-Q/youtube-channel)
 
 The dataset can be shown using a linegraph, a 3D bar chart and in a text form. The site uses the ControlP5 library in order to navigate. The navigation options are:
 * Line Graph - (Displays a line graph based on the data-set)
@@ -12,6 +13,12 @@ The dataset can be shown using a linegraph, a 3D bar chart and in a text form. T
 * Mute Music - (Toggles music playing on or off in the background)
 * Display Controls - (Displays Controls related to the project)
 * About this Project - (Displays information related to the project)
+
+**This project makes use of the processing libraries:**
+* Peasycam
+* ControlP5
+* ddf.Minim
+
 
 ##Screenshots of Project##
 ###Home-Page of Project###
@@ -33,6 +40,4 @@ The dataset can be shown using a linegraph, a 3D bar chart and in a text form. T
 ![alt tag](https://raw.githubusercontent.com/Irish-Day-Man/FunHausGraph/master/processingScreenshots/about.jpg)
 
 
-
-
-
+The controls for this project can be found in the controls page in the project. 
