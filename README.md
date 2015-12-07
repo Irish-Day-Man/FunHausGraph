@@ -5,6 +5,8 @@ This is a graph designed to show the increase in subscribers for the youtube cha
 
 The graph spans subscriber gain over 90 days. The data for this graph was obtained [here](http://vidstatsx.com/boMX_UNgaPBsUOIgasn3-Q/youtube-channel)
 
+This program is controlled entirely via. mouse or trackpad however it is recommended a mouse with a middle click button be used. The middle click button is used to pan in the 3D camera.
+
 The dataset can be shown using a linegraph, a 3D bar chart and in a text form. The site uses the ControlP5 library in order to navigate. The navigation options are:
 * Line Graph - (Displays a line graph based on the data-set)
 * 3D Bar Chart - (Displays a 3D bar chart based on the data-set)
@@ -18,7 +20,6 @@ The dataset can be shown using a linegraph, a 3D bar chart and in a text form. T
 * Peasycam
 * ControlP5
 * ddf.Minim
-
 
 ##Screenshots of Project##
 ###Home-Page of Project###
