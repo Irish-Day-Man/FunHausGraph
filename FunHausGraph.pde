@@ -1,3 +1,11 @@
+/*
+REQUIRES THE LIBRARIES:
+- peasyCam
+- ddf.minim
+- controlP5
+
+*/
+
 //imports for camera library
 import peasy.test.*;
 import peasy.org.apache.commons.math.*;
