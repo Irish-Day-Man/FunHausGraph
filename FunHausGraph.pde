@@ -44,12 +44,11 @@ boolean camActive=false;
 //variable for activating and deactivating the slider and button for displaying info
 boolean statsDisplay = false;
 
-//variable storing slider value
-int videoNo= 0;
 //variable for storing data based off of videoNo
 String videoData="";
 
-int episodeNumber = 1;
+//variable for holding video Number
+int videoNumber = 1;
 
 //begin setup
 void setup(){
@@ -70,7 +69,7 @@ void setup(){
   
   //setup cp6 items for the data statistics page
   cp6.addButton("displayVidStat").setValue(8).setPosition(825, height-75).setSize(80,20).setLabel("Display Statistics");
-  cp6.addSlider("episodeNumber").setValue(1).setSize(width/4,10).setPosition(400,height-70).setRange(1,90).setLabel("");  
+  cp6.addSlider("videoNumber").setValue(1).setSize(width/4,10).setPosition(400,height-70).setRange(1,90).setLabel("");  
   
   //set cp5 to not draw the objects automatically
   cp5.setAutoDraw(false);
@@ -507,7 +506,7 @@ void controlEvent(ControlEvent theEvent){
   
   //if the event is for displayVidStat button
   if(theEvent.controller().getName()=="displayVidStat"){
-    int value = ceil(cp6.getController("episodeNumber").getValue()-1);
+    int value = ceil(cp6.getController("videoNumber").getValue()-1);
     
     //set program to output data based on the slider
     Video vidTemp = videos.get(value);
